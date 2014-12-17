@@ -1,29 +1,5 @@
 (function ($) {
 
-    input = [
-  {
-    "category":"Best Actor - Drama",
-    "a":"Eddie Redmayne",
-    "b":"Benedict Cumberbatch",
-    "c":"Steve Carell",
-    "d":"David Oyelowo"
-  },
-  {
-    "category":"Best Motion Picture - Drama",
-    "a":"Boyhood",
-    "b":"The Imitation Game",
-    "c":"Selma",
-    "d":"The Theory of Everything"
-  },
-  {
-    "category":"Best Director - Motion Picture",
-    "a":"Richard Linklater",
-    "b":"Alejandro Gonzlez Irritu",
-    "c":"Ava DuVernay",
-    "d":"Angelina Jolie"
-  }
-]
-
 console.log(input);
 
 window.onload = function() { init() };
